@@ -1,4 +1,4 @@
-.github/workflows/
+
 name: Build Windows EXE
 
 on:
